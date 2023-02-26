@@ -288,7 +288,7 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/mobile-bg.png);
+        background-image: url(../images/mbg.jpg);
         background-size: cover;
         padding: 0px;
     }
@@ -487,9 +487,9 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/mobile-bg.png);
+        background-image: url(../images/mbg.jpg);
         background-size: cover;
-        padding: 0px; 
+        padding: 0px;
     }
     .navbar-toggler {
         background-color: #ffffff;
@@ -544,7 +544,7 @@
         width: 100%;
     }
     .banner_section {
-        padding: 50px 0px;
+        padding: 75px 0px;
     }
     .services_section {
         padding: 50px 0px;
@@ -665,5 +665,4 @@
         width: 100%;
         padding-top: 90px;
     }
-
 }

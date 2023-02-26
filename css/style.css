@@ -217,7 +217,7 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
+    padding-top: 170px;
     padding-bottom: 0px;
 }
 
@@ -231,7 +231,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/bbg1.png);
     height: auto;
     background-size: 100%;
     padding: 0px 0px 20px 0px;
@@ -351,7 +351,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    padding-bottom: 305px;
+    padding-bottom: 510px;
 }
 
 .banner_taital {
@@ -611,9 +611,11 @@ button {
     }
 }
 
-.margin_top_90{
+.margin_top_90 {
     margin-top: 90px;
 }
+
+
 /* blog section end */
 
 
@@ -827,6 +829,7 @@ button {
 
 /* choose section end */
 
+
 /* contact section start */
 
 .contact_section {
@@ -834,6 +837,7 @@ button {
     float: left;
     padding-bottom: 90px;
 }
+
 .contact_taital {
     width: 100%;
     float: left;
@@ -842,12 +846,14 @@ button {
     text-align: center;
     font-weight: bold;
 }
+
 .email_text {
     width: 70%;
     margin: 0 auto;
     text-align: center;
     padding-top: 120px;
 }
+
 .email-bt {
     width: 100%;
     float: left;
@@ -858,6 +864,7 @@ button {
     border: 0px;
     border: 1px solid #2b2278 !important;
 }
+
 .massage-bt {
     width: 100%;
     float: left;
@@ -868,11 +875,13 @@ button {
     border: 0px;
     border: 1px solid #2b2278 !important;
 }
+
 .send_btn {
     width: 170px;
     margin: 0 auto;
     text-align: center;
 }
+
 .send_btn a {
     width: 100%;
     float: right;
@@ -883,12 +892,14 @@ button {
     background-color: #000d10;
     padding: 7px;
 }
+
 .send_btn a:hover {
     color: #ffffff;
     background-color: #2b2278;
 }
-/* contact section end */
 
+
+/* contact section end */
 
 
 /* footer section start */
